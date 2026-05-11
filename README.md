@@ -103,14 +103,6 @@ The system uses:
 
 ⸻
 
-🧠 Deep Learning Workflow
-
-<div align="center">
-<img src="images/workflow.png" width="90%">
-</div>
-
-⸻
-
 📂 Dataset Information
 
 The final unified dataset was created by merging multiple public waste datasets.
@@ -137,7 +129,7 @@ General Waste	834
 
 Paste your Google Drive dataset link below:
 
-PASTE_YOUR_DATASET_LINK_HERE
+https://drive.google.com/file/d/1QL8YBDZNnmmiJ1_WVpih1tC236lfTrmh/view?usp=sharing
 
 ⸻
 
@@ -233,7 +225,7 @@ Gradio	Web Interface
 🏗️ System Architecture
 
 <div align="center">
-<img src="images/system_architecture.png" width="90%">
+<img src="workflow.png" width="90%">
 </div>
 
 ⸻
@@ -261,7 +253,7 @@ Gradio Web Interface
 🖼️ Image Upload Prediction
 
 <div align="center">
-<img src="images/upload_demo.png" width="90%">
+<img src="upload_demo.png" width="90%">
 </div>
 
 ⸻
@@ -269,7 +261,7 @@ Gradio Web Interface
 🎥 Webcam-Based Prediction
 
 <div align="center">
-<img src="images/webcam_demo.png" width="90%">
+<img src="webcam_demo.png" width="90%">
 </div>
 
 ⸻
@@ -279,7 +271,7 @@ Gradio Web Interface
 📊 Training and Validation Accuracy
 
 <div align="center">
-<img src="images/training_graph.png" width="85%">
+<img src="training_graph.png" width="85%">
 </div>
 
 ⸻
@@ -287,7 +279,7 @@ Gradio Web Interface
 🔍 Confusion Matrix
 
 <div align="center">
-<img src="images/confusion_matrix.png" width="75%">
+<img src="confusion_matrix.png" width="75%">
 </div>
 
 ⸻
